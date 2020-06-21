@@ -5,3 +5,7 @@
 
 
 Step 0 : Esaayer de suivre le tuto rapidement
+
+Step 1 : installer git et verifier si la bonne version recente est installée
+
+Step 2 : Suivre les premieres étapes pour linker un fichier à git
